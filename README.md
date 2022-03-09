@@ -1,6 +1,6 @@
 # JavaScript Array Methods Cheat Sheet
 
-```
+```javascript
 const arr = [1, 3, 5, 7];
 const arr2 = [1, 3, 5, 5, 7];
 const arr3 = ['d', 'a', 'b', 'c'];
